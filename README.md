@@ -1,5 +1,5 @@
-<h1 align="center" >
-   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="900px" height="250px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+<h1>
+   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="600px" height="150px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
 <div align="left">
@@ -23,7 +23,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikecp&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikecp&exclude_repo=KNN-Image-Classification&show_icons=true&&theme=radical" width="500px" eight="250px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikecp&exclude_repo=KNN-Image-Classification&show_icons=true&&theme=radical"/>
 </p>
 
 
