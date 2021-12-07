@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center" style = "Color:red">
+  Hi! My name is Virginia, but I prefer more viike <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 <!--
 **vikecp/vikecp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
