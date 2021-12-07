@@ -1,9 +1,9 @@
 <h1 align="center">
-   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="600px" height="150px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   <img src="https://github.com/vikecp/vikecp/blob/main/img/vike.gif" width="1000px" height="500px">
 </h1>
 
 <div align="left">
-  <h3> Vikecp is a ✨ basic repository ✨ about how I've been learning some things in programming.</h3>
+  <h3> Vikecp is a ✨ basic repository ✨ about how I've been learning some things in programming.</h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
   
 - 🔭 I’m not currently working
