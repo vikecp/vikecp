@@ -1,5 +1,5 @@
 <h1 align="center" >
-  Hi! My name is Virginia, but I prefer more viike <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="900px" height="200px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 </h1>
 
 <div align="left">
