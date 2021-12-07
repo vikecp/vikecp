@@ -22,6 +22,13 @@
 ## Stats
 ![vike's github stats](https://github-readme-stats.vercel.app/api?username=vikecp&show_icons=true&theme=dracula)
 
-<h4 align="right"> I love mixis <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px" </h4> 
- 
+## memes
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
+
+
+
+<h4 align="right"> I love mixis <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px"> </h4> 
+
+
+
 
