@@ -1,5 +1,5 @@
 <h1 align="center" >
-   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="900px" height="200px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+   <img src="https://github.com/vikecp/vikecp/blob/main/header.png" width="900px" height="250px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 </h1>
 
 <div align="left">
@@ -25,9 +25,7 @@
 ## memes
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
 
-
-
-<h4 align="right"> I love mixis <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px"> </h4> 
+<h1 align="right"> <img src="https://img.shields.io/badge/%3C3-I%20love%20mixis-blueviolet" width="150px"> <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px"> </h1>
 
 
 
