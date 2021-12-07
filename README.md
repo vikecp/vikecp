@@ -19,8 +19,13 @@
 
 </div>
 
-## Stats
-![vike's github stats](https://github-readme-stats.vercel.app/api?username=vikecp&show_icons=true&theme=dracula)
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikecp&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikecp&exclude_repo=KNN-Image-Classification&show_icons=true&&theme=radical" width="500px" eight="250px"/>
+</p>
+
 
 ## memes
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
@@ -28,5 +33,6 @@
 <h1 align="right"> <img src="https://img.shields.io/badge/%3C3-I%20love%20mixis-blueviolet" width="150px"> <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px"> </h1>
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virginia-casta%C3%B1eda-perez/)
 
 
