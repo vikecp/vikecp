@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/vikecp/vikecp/blob/main/img/vike.gif" width="800px" height="400px">
+   <img src="https://github.com/vikecp/vikecp/blob/main/img/github.gif" width="800px" height="400px">
 </h1>
 
 <div align="left">
@@ -13,6 +13,8 @@
   
 - 👯 I’m looking to collaborate on a good team.
 - 🤔 I’m writing my own life hahahaha
+- 🤍 My good certification <a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=oUGSUWtK8D6Ixo9CSRYB1A==">
+      <img src="https://img.shields.io/badge/AzureFundamentals-Certification-informational" /></a>
 - 💬 Ask me about how I finished my subjects at school hahaha
 - 📫 How to reach me: You can send me a email: vircp_jr1@outlook.es
 - ⚡ Fun fact: I've been interested in playing Duo, Clash royale and Brawl starts. My favorite skin is nita's shiba hahahah 
