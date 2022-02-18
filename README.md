@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/vikecp/vikecp/blob/main/img/githubnew.gif" width="1000px" height="200px">
+   <img src="https://github.com/vikecp/vikecp/blob/main/img/githubnew2.gif" width="1000px" height="300px">
 </h1>
 
 <div align="left">
