@@ -24,7 +24,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikecp&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikecp&exclude_repo=KNN-Image-Classification&show_icons=true&&theme=radical"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikecp&exclude_repo=KNN-Image-Classification&show_icons=true&&theme=radical"/>-->
 </p>
 
 
