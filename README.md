@@ -28,8 +28,6 @@
 </p>
 
 
-<!--## memes
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">-->
 
 <h1 align="right"> <img src="https://img.shields.io/badge/%3C3-I%20love%20mixis-blueviolet" width="150px"> <img src="https://github.com/vikecp/vikecp/blob/main/img/cat-solid.svg" width="40px"> </h1>
 
