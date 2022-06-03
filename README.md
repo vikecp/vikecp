@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-  <h3> Vikecp is a ✨ basic repository ✨ about how I've been learning some things in programming.</h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <h3> Vikecp is a ✨ basic repository ✨ about how I've been learning some things in programming.</h3> 
 <br>
   
 - 🌱 I’m currently learning ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
