@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-  <h3> Vikecp is a ✨ basic repository ✨ about how I've been learning some things in programming.</h3> 
+  <h3> This is my ✨ basic repository ✨ about how I've been learning some things in programming.</h3> 
 <br>
   
 - 🌱 I’m currently learning ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -15,7 +15,7 @@
 - 🤍 My good certification <a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=oUGSUWtK8D6Ixo9CSRYB1A==">
       <img src="https://img.shields.io/badge/AzureFundamentals-Certification-informational" /></a>
 - 💬 Ask me about how I have been improving my skills.
-- 📫 How to reach me: You can send me a email: vircp_jr1@outlook.es
+- 📫 How to reach me on [twitter](https://twitter.com/vmoon_py)
 - ⚡ Fun fact: I've been interested in playing Duolingo & Clash royale.
 
 </div>
